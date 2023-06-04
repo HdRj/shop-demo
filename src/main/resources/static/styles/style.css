@@ -1,0 +1,138 @@
+.wrapper{
+    margin-top: 56px;
+}
+
+.shops, .articles{
+    padding: 15px;
+}
+
+.shop-list .shop{
+    margin: 20px 0;
+    width: 100%;
+    text-align: center;
+}
+
+.shop-list .shop button{
+    min-width: 200px;
+}
+
+.articles-wrapper{
+    text-align: center;
+}
+
+.article{
+    width: 300px;
+    height: 300px;
+    border: solid 2px #998899;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 20px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.article .image-article{
+    width: 100%;
+    height: 70%;
+}
+
+.article img{
+    width: 100%;
+    height: 100%;
+}
+
+.article .name-article{
+    margin-top: 10px;
+    color: #77AA77;
+    text-align: left;
+    height: 10%;
+}
+
+.article .btn-article{
+    margin-top: 10px;
+    text-align: right;
+    height: 10%;
+}
+
+.article .btn-article button{
+    width: 50%;
+}
+
+.form-order{
+    padding: 20px;
+    width:100%;
+}
+.form-order label{
+    margin: 20px 0;
+    width:100%;
+}
+
+.form-order input{
+    width:100%;
+}
+
+.item{
+    max-width: 600px;
+    min-height: 200px;
+    border: solid 2px #998899;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item .image-item{
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.item img{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.panel-item .count input{
+    width: 100%;
+}
+
+.item .name-item, .item .price, .item .count, .item .remove-button{
+    padding: 10px;
+}
+
+.total-price{
+    display: inline;
+}
+
+.total-price-wrapper{
+    padding: 15px 0;
+    text-align: center;
+}
+
+.submit-wrapper{
+    text-align: center;
+}
+
+.remove-button{
+    text-align: right;
+}
+
+.history{
+    width: 300px;
+    min-height: 200px;
+    border: solid 2px #998899;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.history-item{
+    padding: 5px;
+}
+
+.history-wrapper{
+    padding: 5px 20px;
+}
