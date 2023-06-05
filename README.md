@@ -19,4 +19,5 @@ Swagger:
 http://129.159.254.167/swagger-ui/
 
 Login: admin
+
 Pass: admin
