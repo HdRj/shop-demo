@@ -13,3 +13,10 @@ http://localhost:7791
 The project is launched on the server:
 
 http://129.159.254.167:80
+
+Swagger:
+
+http://129.159.254.167/swagger-ui/
+
+Login: admin
+Pass: admin
