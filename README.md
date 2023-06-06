@@ -12,11 +12,11 @@ http://localhost:7791
 
 The project is launched on the server:
 
-http://129.159.254.167:80
+https://devtestlab.pp.ua
 
 Swagger:
 
-http://129.159.254.167/swagger-ui/
+https://devtestlab.pp.ua/swagger-ui/
 
 Login: admin
 
