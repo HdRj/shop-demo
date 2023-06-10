@@ -9,15 +9,3 @@ Run from folder shop-demo using terminal:
 Open in browser this address:
 
 http://localhost:7791
-
-The project is launched on the server:
-
-https://devtestlab.pp.ua
-
-Swagger:
-
-https://devtestlab.pp.ua/swagger-ui/
-
-Login: admin
-
-Pass: admin
